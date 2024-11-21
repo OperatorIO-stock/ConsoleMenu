@@ -1,0 +1,14 @@
+/home/casper/Документы/Codes/ConsoleMenu/bin/Release/net9.0/ConsoleMenu
+/home/casper/Документы/Codes/ConsoleMenu/bin/Release/net9.0/ConsoleMenu.deps.json
+/home/casper/Документы/Codes/ConsoleMenu/bin/Release/net9.0/ConsoleMenu.runtimeconfig.json
+/home/casper/Документы/Codes/ConsoleMenu/bin/Release/net9.0/ConsoleMenu.dll
+/home/casper/Документы/Codes/ConsoleMenu/bin/Release/net9.0/ConsoleMenu.pdb
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.AssemblyInfoInputs.cache
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.AssemblyInfo.cs
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.csproj.CoreCompileInputs.cache
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.dll
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/refint/ConsoleMenu.dll
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.pdb
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ConsoleMenu.genruntimeconfig.cache
+/home/casper/Документы/Codes/ConsoleMenu/obj/Release/net9.0/ref/ConsoleMenu.dll
