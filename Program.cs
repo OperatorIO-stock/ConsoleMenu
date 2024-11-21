@@ -7,7 +7,6 @@ class Program
 {
     static void Main(string[] args)
     {
-
         const string CommandExitProgram = "/exit";
         const string CommandOutputDifferentText = "/text";
         const string CommandRandomNumber = "/random";
@@ -30,13 +29,11 @@ class Program
                     break;
 
                 case "/help":
-                    Console.Clear();
                     Console.WriteLine($"commands: {CommandExitProgram}\n{CommandOutputDifferentText}\n" + 
                                         $"{CommandRandomNumber}\n{CommandClearConsole}");
                         break;
 
                 case "/text":
-                    Console.Clear();
                     Console.WriteLine("Друг мой, друг мой,\n" + 
                                         "Я очень и очень болен.\n" +
                                         "Сам не знаю, откуда взялась эта боль.\n" +
@@ -47,7 +44,6 @@ class Program
                     break;
 
                 case "/random":
-                    Console.Clear();
                     Random random = new Random();
                     int randomNumber = random.Next();
                     Console.WriteLine(randomNumber);
@@ -59,7 +55,6 @@ class Program
                     break;
 
                 default:
-                    Console.Clear();
                     Console.WriteLine("Unknown command");
                     break;
             }
