@@ -22,18 +22,18 @@ class Program
         {
             switch (Console.ReadLine())
             {
-                case "/exit":
+                case CommandExitProgram:
                     Console.Clear();   
                     Console.WriteLine("Exiting the program");
                     isProgramUsed = false;
                     break;
 
-                case "/help":
+                case CommandHelp:
                     Console.WriteLine($"commands: {CommandExitProgram}\n{CommandOutputDifferentText}\n" + 
                                         $"{CommandRandomNumber}\n{CommandClearConsole}");
                         break;
 
-                case "/text":
+                case CommandOutputDifferentText:
                     Console.WriteLine("Друг мой, друг мой,\n" + 
                                         "Я очень и очень болен.\n" +
                                         "Сам не знаю, откуда взялась эта боль.\n" +
@@ -43,13 +43,13 @@ class Program
                                         "Осыпает мозги алкоголь.");
                     break;
 
-                case "/random":
+                case CommandRandomNumber:
                     Random random = new Random();
                     int randomNumber = random.Next();
                     Console.WriteLine(randomNumber);
                     break;
 
-                case "/clear":
+                case CommandClearConsole:
                     Console.Clear();
                     Console.WriteLine("Use command /help for show list commands");
                     break;
@@ -59,5 +59,6 @@ class Program
                     break;
             }
         }
+        
     }
 }

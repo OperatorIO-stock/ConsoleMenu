@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMenu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abe3c22e44e137fc9fe61c31f0133f0a1680952c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleMenu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMenu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

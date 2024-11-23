@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu.csproj": {}
+    "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu/ConsoleMenu.csproj": {}
   },
   "projects": {
-    "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu.csproj": {
+    "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu/ConsoleMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu.csproj",
+        "projectUniqueName": "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu/ConsoleMenu.csproj",
         "projectName": "ConsoleMenu",
-        "projectPath": "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu.csproj",
+        "projectPath": "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu/ConsoleMenu.csproj",
         "packagesPath": "/home/casper/.nuget/packages/",
-        "outputPath": "/home/casper/Документы/Codes/ConsoleMenu/obj/",
+        "outputPath": "/home/casper/Документы/Codes/ConsoleMenu/ConsoleMenu/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/casper/.nuget/NuGet/NuGet.Config"
